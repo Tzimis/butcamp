@@ -1,0 +1,8 @@
+i=[50, 20, 10, 5 ,2, 1]
+sum=0
+for t in range(0,6):
+    print("Enter the number banknotes of", i[t], ":")
+    input_number=input()
+    a=int(input_number)*i[t]
+    sum +=a
+print ("You have", sum, "euros") 
