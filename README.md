@@ -1,2 +1,2 @@
 # butcamp
-#Python exercises for 1st coding bootcamp
+#Python exercise 1st day of coding bootcamp
